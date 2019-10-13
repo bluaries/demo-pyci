@@ -1,4 +1,4 @@
-Continuous Integration Demo
+Continuous Integration Demo [![Build Status](https://travis-ci.com/kidstylex/demo-pyci.svg?branch=master)](https://travis-ci.com/kidstylex/demo-pyci)
 ============================
 
 This project demonstrates use of Travis CI to build and test a Python project.  
